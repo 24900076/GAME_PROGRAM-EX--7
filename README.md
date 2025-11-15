@@ -1,8 +1,5 @@
 # GAME_PROGRAM-EX--7
 
-# NAME : HALIMA HARISHA A
-# REGISTER NO : 212224040094
-
 # AIM :
 To implement-chasing when AI see the player.
 
